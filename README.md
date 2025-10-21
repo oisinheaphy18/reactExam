@@ -2,6 +2,8 @@
 
 ## 1. Setup instructions
 
+Oisin Heaphy, 20107294
+
 This repository contains the starting code for a lab-based React assessment. 
 
 [https://github.com/rbirney/react-exam](https://github.com/rbirney/react-exam)
